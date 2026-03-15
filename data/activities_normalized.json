@@ -15338,5 +15338,31 @@
     "start_date_local": "2026-03-13T17:32:43Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 25518.0,
+    "elevation_gain": 184.0,
+    "id": "17720896587",
+    "moving_time": 2646.0,
+    "name": "12x30@560w Interval Ride (Zwift)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T15:51:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 10035.9,
+    "elevation_gain": 0.0,
+    "id": "17729001952",
+    "moving_time": 3028.0,
+    "name": "10K Base Run (Zwift - Classique in London)",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-03-15T11:06:45Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
