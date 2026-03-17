@@ -10637,6 +10637,24 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/17729001952",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 20,
+      "name": "40M Base Ride (Zwift)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17746560554",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 9,
+      "name": "30M Tempo Ride (Zwift)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17751167585",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20809,6 +20827,24 @@
           "distance": 25518.0,
           "elevation_gain": 184.0,
           "moving_time": 2646.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17746560554"
+          ],
+          "count": 1,
+          "distance": 24472.6,
+          "elevation_gain": 168.0,
+          "moving_time": 2422.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17751167585"
+          ],
+          "count": 1,
+          "distance": 22679.7,
+          "elevation_gain": 48.0,
+          "moving_time": 2034.0
         }
       },
       "VirtualRun": {
@@ -20963,7 +20999,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T15:32:17.597647+00:00",
+  "generated_at": "2026-03-17T15:31:50.330803+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
