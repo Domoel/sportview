@@ -15390,5 +15390,18 @@
     "start_date_local": "2026-03-17T09:30:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 10130.5,
+    "elevation_gain": 82.0,
+    "id": "17768520828",
+    "moving_time": 2768.0,
+    "name": "10K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T16:46:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
