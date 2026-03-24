@@ -15429,5 +15429,18 @@
     "start_date_local": "2026-03-22T17:06:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 35352.9,
+    "elevation_gain": 0.0,
+    "id": "17832456806",
+    "moving_time": 3962.0,
+    "name": "1H Base Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T20:27:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
