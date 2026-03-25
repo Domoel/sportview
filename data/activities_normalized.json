@@ -15442,5 +15442,18 @@
     "start_date_local": "2026-03-23T20:27:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 10532.8,
+    "elevation_gain": 0.0,
+    "id": "17845296698",
+    "moving_time": 3087.0,
+    "name": "10K Base Run (Zwift - Temple Trek in Watopia)",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-03-24T20:18:51Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
