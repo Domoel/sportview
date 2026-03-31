@@ -15455,5 +15455,18 @@
     "start_date_local": "2026-03-24T20:18:51Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 26241.0,
+    "elevation_gain": 136.6,
+    "id": "17925091859",
+    "moving_time": 5740.0,
+    "name": "Skiabfahrt am Morgen",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-31T10:27:43Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]

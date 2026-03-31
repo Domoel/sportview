@@ -10700,6 +10700,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/17845296698",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 10,
+      "name": "Skiabfahrt am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17925091859",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20706,6 +20715,17 @@
       }
     },
     "2026": {
+      "AlpineSki": {
+        "2026-03-31": {
+          "activity_ids": [
+            "17925091859"
+          ],
+          "count": 1,
+          "distance": 26241.0,
+          "elevation_gain": 136.6,
+          "moving_time": 5740.0
+        }
+      },
       "Ride": {
         "2026-01-13": {
           "activity_ids": [
@@ -21089,7 +21109,7 @@
       }
     }
   },
-  "generated_at": "2026-03-30T15:36:44.016592+00:00",
+  "generated_at": "2026-03-31T15:34:38.447727+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
