@@ -15494,5 +15494,18 @@
     "start_date_local": "2026-04-02T10:22:58Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 30789.3,
+    "elevation_gain": 263.0,
+    "id": "17962768446",
+    "moving_time": 5554.0,
+    "name": "Skiabfahrt am Morgen",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-04-03T10:21:36Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
