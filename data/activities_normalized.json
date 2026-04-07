@@ -15507,5 +15507,18 @@
     "start_date_local": "2026-04-03T10:21:36Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 12432.3,
+    "elevation_gain": 80.0,
+    "id": "18009285665",
+    "moving_time": 3419.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T08:43:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
