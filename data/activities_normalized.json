@@ -15520,5 +15520,18 @@
     "start_date_local": "2026-04-07T08:43:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 10033.6,
+    "elevation_gain": 0.0,
+    "id": "18032753254",
+    "moving_time": 3018.0,
+    "name": "Zwift - Volcano Circuit CCW in Watopia",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-04-08T21:54:03Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
