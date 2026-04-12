@@ -15533,5 +15533,18 @@
     "start_date_local": "2026-04-08T21:54:03Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 32214.3,
+    "elevation_gain": 0.0,
+    "id": "18071700111",
+    "moving_time": 3608.0,
+    "name": "1H Base Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T22:37:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

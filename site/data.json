@@ -10754,6 +10754,15 @@
       "type": "VirtualRun",
       "url": "https://www.strava.com/activities/18032753254",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 22,
+      "name": "1H Base Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18071700111",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20852,6 +20861,15 @@
           "distance": 35352.9,
           "elevation_gain": 0.0,
           "moving_time": 3962.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18071700111"
+          ],
+          "count": 1,
+          "distance": 32214.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3608.0
         }
       },
       "Run": {
@@ -21199,7 +21217,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:16:41.031063+00:00",
+  "generated_at": "2026-04-12T15:19:32.556877+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
