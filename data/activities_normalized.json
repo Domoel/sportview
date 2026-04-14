@@ -15546,5 +15546,18 @@
     "start_date_local": "2026-04-11T22:37:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8088.8,
+    "elevation_gain": 0.0,
+    "id": "18096658560",
+    "moving_time": 2410.0,
+    "name": "8K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T22:24:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

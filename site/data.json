@@ -10763,6 +10763,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18071700111",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 22,
+      "name": "8K Base Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18096658560",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20935,6 +20944,15 @@
           "distance": 12432.3,
           "elevation_gain": 80.0,
           "moving_time": 3419.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18096658560"
+          ],
+          "count": 1,
+          "distance": 8088.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2410.0
         }
       },
       "VirtualRide": {
@@ -21217,7 +21235,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T15:37:58.951177+00:00",
+  "generated_at": "2026-04-14T15:33:58.569755+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
