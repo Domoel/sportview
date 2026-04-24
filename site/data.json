@@ -10808,6 +10808,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18217233549",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 21,
+      "name": "10K Base Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18231131992",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21025,6 +21034,15 @@
           "distance": 6223.4,
           "elevation_gain": 0.0,
           "moving_time": 1811.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18231131992"
+          ],
+          "count": 1,
+          "distance": 10028.2,
+          "elevation_gain": 0.0,
+          "moving_time": 3032.0
         }
       },
       "VirtualRide": {
@@ -21307,7 +21325,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T15:43:33.502748+00:00",
+  "generated_at": "2026-04-24T15:33:46.029700+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
