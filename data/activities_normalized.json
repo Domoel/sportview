@@ -15624,5 +15624,18 @@
     "start_date_local": "2026-04-23T21:55:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 10056.0,
+    "elevation_gain": 0.0,
+    "id": "18284389390",
+    "moving_time": 3001.0,
+    "name": "10K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T23:06:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
