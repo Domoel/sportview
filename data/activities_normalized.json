@@ -15637,5 +15637,18 @@
     "start_date_local": "2026-04-27T23:06:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 105354.0,
+    "elevation_gain": 1096.0,
+    "id": "18333078788",
+    "moving_time": 12985.0,
+    "name": "RCE Ausfahrt zum 1. Mai  \ud83d\udcaf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T09:43:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

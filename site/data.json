@@ -10826,6 +10826,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18284389390",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 9,
+      "name": "RCE Ausfahrt zum 1. Mai  \ud83d\udcaf",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18333078788",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20942,6 +20951,15 @@
           "distance": 33728.8,
           "elevation_gain": 0.0,
           "moving_time": 3642.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18333078788"
+          ],
+          "count": 1,
+          "distance": 105354.0,
+          "elevation_gain": 1096.0,
+          "moving_time": 12985.0
         }
       },
       "Run": {
@@ -21343,7 +21361,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T15:42:01.436624+00:00",
+  "generated_at": "2026-05-01T15:28:29.505484+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
