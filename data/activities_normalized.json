@@ -15650,5 +15650,18 @@
     "start_date_local": "2026-05-01T09:43:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 11531.5,
+    "elevation_gain": 177.0,
+    "id": "18355914661",
+    "moving_time": 3203.0,
+    "name": "Mit den Jungs H\u00f6henmeter sammeln \ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T10:10:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
