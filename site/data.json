@@ -10855,12 +10855,30 @@
       "year": 2026
     },
     {
+      "date": "2026-05-09",
+      "hour": 23,
+      "name": "1H Base Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18509301674",
+      "year": 2026
+    },
+    {
       "date": "2026-05-11",
       "hour": 22,
       "name": "8K Base Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18469232150",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 23,
+      "name": "1H Base Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18509860245",
       "year": 2026
     }
   ],
@@ -20987,6 +21005,24 @@
           "distance": 105354.0,
           "elevation_gain": 1096.0,
           "moving_time": 12985.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18509301674"
+          ],
+          "count": 1,
+          "distance": 28308.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3622.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18509860245"
+          ],
+          "count": 1,
+          "distance": 29149.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3715.0
         }
       },
       "Run": {
@@ -21415,7 +21451,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T15:54:14.693905+00:00",
+  "generated_at": "2026-05-15T15:48:54.662518+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
