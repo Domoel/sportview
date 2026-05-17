@@ -15722,10 +15722,23 @@
     "elevation_gain": 38.0,
     "id": "18529774871",
     "moving_time": 1752.0,
-    "name": "Lauf am Nachmittag",
+    "name": "7K Tempo Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-16T15:11:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 8444.0,
+    "elevation_gain": 47.0,
+    "id": "18541057708",
+    "moving_time": 2225.0,
+    "name": "8K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T12:23:26Z",
     "type": "Run",
     "year": 2026
   }
