@@ -15741,5 +15741,31 @@
     "start_date_local": "2026-05-17T12:23:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 8292.3,
+    "elevation_gain": 0.0,
+    "id": "18600966287",
+    "moving_time": 2413.0,
+    "name": "8K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T22:39:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 9100.0,
+    "elevation_gain": 50.0,
+    "id": "18609584839",
+    "moving_time": 2505.0,
+    "name": "10K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T16:32:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
