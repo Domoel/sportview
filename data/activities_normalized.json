@@ -15780,5 +15780,18 @@
     "start_date_local": "2026-05-23T16:14:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 10791.0,
+    "elevation_gain": 127.0,
+    "id": "18644578281",
+    "moving_time": 2986.0,
+    "name": "Sch\u00f6ne Runde mit den Jungs \ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T10:09:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
