@@ -10934,6 +10934,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18644578281",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18664975993",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21077,6 +21086,15 @@
           "distance": 29149.7,
           "elevation_gain": 0.0,
           "moving_time": 3715.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18664975993"
+          ],
+          "count": 1,
+          "distance": 62794.0,
+          "elevation_gain": 412.0,
+          "moving_time": 8839.0
         }
       },
       "Run": {
@@ -21559,7 +21577,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T16:25:23.654484+00:00",
+  "generated_at": "2026-05-27T16:22:31.076408+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
