@@ -15839,10 +15839,23 @@
     "elevation_gain": 0.0,
     "id": "18798365397",
     "moving_time": 1208.0,
-    "name": "Lauf am Nachmittag",
+    "name": "5K Base Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-05T17:21:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 12238.9,
+    "elevation_gain": 77.0,
+    "id": "18820238994",
+    "moving_time": 3221.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T10:12:44Z",
     "type": "Run",
     "year": 2026
   }
