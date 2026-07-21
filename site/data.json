@@ -11015,6 +11015,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19273782344",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19400233094",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21439,6 +21448,15 @@
           "distance": 5485.2,
           "elevation_gain": 32.0,
           "moving_time": 1575.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19400233094"
+          ],
+          "count": 1,
+          "distance": 7095.4,
+          "elevation_gain": 41.0,
+          "moving_time": 1904.0
         }
       },
       "VirtualRide": {
@@ -21721,7 +21739,7 @@
       }
     }
   },
-  "generated_at": "2026-07-20T16:36:35.921843+00:00",
+  "generated_at": "2026-07-21T16:27:07.485774+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
