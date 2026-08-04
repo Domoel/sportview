@@ -16014,5 +16014,31 @@
     "start_date_local": "2026-08-03T17:17:29Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 18518.9,
+    "elevation_gain": 82.0,
+    "id": "19587515753",
+    "moving_time": 2754.0,
+    "name": "Evening Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-03T20:46:19Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 8345.1,
+    "elevation_gain": 33.0,
+    "id": "19594424075",
+    "moving_time": 2346.0,
+    "name": "8K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T10:55:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
