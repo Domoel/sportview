@@ -16079,5 +16079,18 @@
     "start_date_local": "2026-08-12T10:58:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 83893.4,
+    "elevation_gain": 368.0,
+    "id": "19729699033",
+    "moving_time": 11647.0,
+    "name": "Sch\u00f6ne Tour mit Jan \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-13T17:08:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

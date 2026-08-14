@@ -11132,6 +11132,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19708250976",
       "year": 2026
+    },
+    {
+      "date": "2026-08-13",
+      "hour": 17,
+      "name": "Sch\u00f6ne Tour mit Jan \u2600\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19729699033",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21296,6 +21305,15 @@
           "distance": 62794.0,
           "elevation_gain": 412.0,
           "moving_time": 8839.0
+        },
+        "2026-08-13": {
+          "activity_ids": [
+            "19729699033"
+          ],
+          "count": 1,
+          "distance": 83893.4,
+          "elevation_gain": 368.0,
+          "moving_time": 11647.0
         }
       },
       "Run": {
@@ -21949,7 +21967,7 @@
       }
     }
   },
-  "generated_at": "2026-08-13T16:03:04.894277+00:00",
+  "generated_at": "2026-08-14T15:56:58.617050+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
