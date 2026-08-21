@@ -16196,5 +16196,18 @@
     "start_date_local": "2026-08-20T11:31:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 39410.3,
+    "elevation_gain": 135.0,
+    "id": "19828780140",
+    "moving_time": 3627.0,
+    "name": "Zwift - Group Ride: Profitterolls p/b AUCC (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-20T21:49:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
