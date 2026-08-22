@@ -16209,5 +16209,18 @@
     "start_date_local": "2026-08-20T21:49:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 2023.0,
+    "elevation_gain": 19.7,
+    "id": "19841487310",
+    "moving_time": 1387.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-21T21:36:18Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
