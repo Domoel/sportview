@@ -11258,6 +11258,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19866059609",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19867475708",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19875940926",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22147,12 +22165,22 @@
         "2026-08-23": {
           "activity_ids": [
             "19859368817",
-            "19866059609"
+            "19866059609",
+            "19867475708"
           ],
-          "count": 2,
-          "distance": 3323.9,
-          "elevation_gain": 0.0,
-          "moving_time": 3269.0
+          "count": 3,
+          "distance": 6722.1,
+          "elevation_gain": 2.2,
+          "moving_time": 6253.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19875940926"
+          ],
+          "count": 1,
+          "distance": 4966.2,
+          "elevation_gain": 64.1,
+          "moving_time": 3436.0
         }
       },
       "WeightTraining": {
@@ -22179,7 +22207,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:28:44.837438+00:00",
+  "generated_at": "2026-08-24T15:46:07.190778+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
