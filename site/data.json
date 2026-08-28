@@ -11303,6 +11303,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19914077564",
       "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 21,
+      "name": "Night Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19932055612",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22235,6 +22244,15 @@
           "distance": 4766.6,
           "elevation_gain": 64.9,
           "moving_time": 3118.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19932055612"
+          ],
+          "count": 1,
+          "distance": 4424.4,
+          "elevation_gain": 42.1,
+          "moving_time": 4157.0
         }
       },
       "WeightTraining": {
@@ -22261,7 +22279,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:20:18.097769+00:00",
+  "generated_at": "2026-08-28T23:59:10.317092+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
