@@ -16365,5 +16365,31 @@
     "start_date_local": "2026-08-31T12:02:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 25181.8,
+    "elevation_gain": 110.0,
+    "id": "19981227882",
+    "moving_time": 2668.0,
+    "name": "Zwift - The Wringer",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-31T22:01:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 16408.3,
+    "elevation_gain": 33.0,
+    "id": "19991838381",
+    "moving_time": 3483.0,
+    "name": "Mountainbike-Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-09-01T16:18:44Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
