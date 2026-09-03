@@ -16404,5 +16404,31 @@
     "start_date_local": "2026-09-02T12:00:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 4237.2,
+    "elevation_gain": 30.5,
+    "id": "20010252164",
+    "moving_time": 2797.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-02T20:06:56Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 4649.8,
+    "elevation_gain": 60.4,
+    "id": "20017626621",
+    "moving_time": 3079.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-03T11:35:50Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
