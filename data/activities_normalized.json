@@ -16430,5 +16430,18 @@
     "start_date_local": "2026-09-03T11:35:50Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 4730.8,
+    "elevation_gain": 61.9,
+    "id": "20031852533",
+    "moving_time": 3152.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-04T12:11:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
