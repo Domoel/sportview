@@ -16443,5 +16443,18 @@
     "start_date_local": "2026-09-04T12:11:39Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 5014.7,
+    "elevation_gain": 33.0,
+    "id": "20042774810",
+    "moving_time": 1181.0,
+    "name": "5K Tempo Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T09:59:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
