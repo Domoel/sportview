@@ -16463,11 +16463,24 @@
     "elevation_gain": 751.0,
     "id": "20062269456",
     "moving_time": 7677.0,
-    "name": "Afternoon Ride",
+    "name": "Sch\u00f6ne Tour mit Flo \u2600\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-06T14:16:43Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 4643.4,
+    "elevation_gain": 60.7,
+    "id": "20071527378",
+    "moving_time": 2989.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-07T11:37:24Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
