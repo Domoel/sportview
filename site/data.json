@@ -11420,6 +11420,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20080080594",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 23,
+      "name": "Nachtspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20095414798",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 14,
+      "name": "Lunch Walk \ud83d\udeb6",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20103723414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22453,6 +22471,24 @@
           "distance": 7593.5,
           "elevation_gain": 88.0,
           "moving_time": 5006.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20095414798"
+          ],
+          "count": 1,
+          "distance": 4232.2,
+          "elevation_gain": 0.0,
+          "moving_time": 3152.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20103723414"
+          ],
+          "count": 1,
+          "distance": 4541.6,
+          "elevation_gain": 66.6,
+          "moving_time": 2658.0
         }
       },
       "WeightTraining": {
@@ -22479,7 +22515,7 @@
       }
     }
   },
-  "generated_at": "2026-09-08T18:27:52.056331+00:00",
+  "generated_at": "2026-09-09T18:27:15.293664+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
