@@ -16534,5 +16534,31 @@
     "start_date_local": "2026-09-10T07:00:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 3079.4,
+    "elevation_gain": 14.1,
+    "id": "20125907700",
+    "moving_time": 1899.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-10T23:01:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 7118.4,
+    "elevation_gain": 40.0,
+    "id": "20131157075",
+    "moving_time": 1723.0,
+    "name": "7K Tempo Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T16:17:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
