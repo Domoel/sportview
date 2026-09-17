@@ -16612,5 +16612,31 @@
     "start_date_local": "2026-09-15T19:12:38Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 12275.1,
+    "elevation_gain": 547.0,
+    "id": "20205696536",
+    "moving_time": 2249.0,
+    "name": "Zwift - Climb Portal: Col du Galibier (Lautaret) at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-16T22:30:07Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 4632.9,
+    "elevation_gain": 60.0,
+    "id": "20211790298",
+    "moving_time": 3082.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-17T11:47:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
