@@ -11546,6 +11546,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20253586402",
       "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20272559465",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 21,
+      "name": "Gewichtstraining in der Nacht",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20272736784",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20283779439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21746,6 +21773,24 @@
           "distance": 60032.2,
           "elevation_gain": 751.0,
           "moving_time": 7677.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20272559465"
+          ],
+          "count": 1,
+          "distance": 14281.6,
+          "elevation_gain": 0.0,
+          "moving_time": 1804.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20283779439"
+          ],
+          "count": 1,
+          "distance": 11323.1,
+          "elevation_gain": 52.0,
+          "moving_time": 1433.0
         }
       },
       "Run": {
@@ -22700,6 +22745,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1551.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20272736784"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1918.0
         }
       },
       "Workout": {
@@ -22715,7 +22769,7 @@
       }
     }
   },
-  "generated_at": "2026-09-21T19:56:02.155392+00:00",
+  "generated_at": "2026-09-22T18:42:04.305829+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
