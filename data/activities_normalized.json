@@ -16742,5 +16742,31 @@
     "start_date_local": "2026-09-24T15:25:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 28578.6,
+    "elevation_gain": 0.0,
+    "id": "20315434095",
+    "moving_time": 3611.0,
+    "name": "1H Base Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-24T20:13:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 9055.1,
+    "elevation_gain": 50.0,
+    "id": "20325317283",
+    "moving_time": 2475.0,
+    "name": "10K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-25T16:48:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
