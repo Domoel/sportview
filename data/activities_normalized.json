@@ -16768,5 +16768,31 @@
     "start_date_local": "2026-09-25T16:48:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 22437.6,
+    "elevation_gain": 0.0,
+    "id": "20357191143",
+    "moving_time": 3620.0,
+    "name": "1H Base Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-27T21:48:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 3898.7,
+    "elevation_gain": 59.3,
+    "id": "20363472786",
+    "moving_time": 2554.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-28T13:31:26Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
