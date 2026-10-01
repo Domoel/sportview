@@ -16820,5 +16820,31 @@
     "start_date_local": "2026-09-29T21:08:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 4227.2,
+    "elevation_gain": 30.1,
+    "id": "20398145965",
+    "moving_time": 2787.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-30T21:19:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 3756.6,
+    "elevation_gain": 42.7,
+    "id": "20398226218",
+    "moving_time": 2362.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-30T11:59:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
