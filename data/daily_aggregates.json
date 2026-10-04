@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:37:57.196350+00:00",
+  "generated_at": "2026-10-04T18:35:37.847947+00:00",
   "years": {
     "2012": {
       "Run": {
@@ -10252,6 +10252,15 @@
           "distance": 32311.6,
           "elevation_gain": 0.0,
           "moving_time": 3628.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20451161539"
+          ],
+          "count": 1,
+          "distance": 56689.7,
+          "elevation_gain": 348.0,
+          "moving_time": 6801.0
         }
       },
       "Run": {
@@ -11250,6 +11259,24 @@
           "distance": 7983.799999999999,
           "elevation_gain": 72.80000000000001,
           "moving_time": 5149.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20451633142"
+          ],
+          "count": 1,
+          "distance": 1057.7,
+          "elevation_gain": 13.0,
+          "moving_time": 1087.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20451633008"
+          ],
+          "count": 1,
+          "distance": 1548.5,
+          "elevation_gain": 7.4,
+          "moving_time": 1209.0
         }
       },
       "WeightTraining": {
