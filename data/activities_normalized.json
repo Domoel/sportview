@@ -16911,5 +16911,18 @@
     "start_date_local": "2026-10-05T11:43:12Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 10051.1,
+    "elevation_gain": 68.0,
+    "id": "20484177289",
+    "moving_time": 2780.0,
+    "name": "10K Barcelona City Run \ud83c\uddea\ud83c\udde6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T06:29:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

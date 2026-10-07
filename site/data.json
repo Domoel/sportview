@@ -11708,6 +11708,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20458117400",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 6,
+      "name": "10K Barcelona City Run \ud83c\uddea\ud83c\udde6",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20484177289",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22432,6 +22441,15 @@
           "distance": 9055.1,
           "elevation_gain": 50.0,
           "moving_time": 2475.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20484177289"
+          ],
+          "count": 1,
+          "distance": 10051.1,
+          "elevation_gain": 68.0,
+          "moving_time": 2780.0
         }
       },
       "VirtualRide": {
@@ -23031,7 +23049,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T20:07:47.562001+00:00",
+  "generated_at": "2026-10-07T20:31:51.357266+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
