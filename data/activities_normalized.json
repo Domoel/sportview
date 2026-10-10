@@ -16924,5 +16924,31 @@
     "start_date_local": "2026-10-07T06:29:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 41122.3,
+    "elevation_gain": 203.0,
+    "id": "20519763270",
+    "moving_time": 3999.0,
+    "name": "1H Base Ride (Zwift)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-09T22:01:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 12452.5,
+    "elevation_gain": 161.0,
+    "id": "20524688617",
+    "moving_time": 3421.0,
+    "name": "Mit den Jungs Ballern \ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-10T10:07:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

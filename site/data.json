@@ -11717,6 +11717,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20484177289",
       "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 22,
+      "name": "1H Base Ride (Zwift)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20519763270",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 10,
+      "name": "Mit den Jungs Ballern \ud83c\udfc3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20524688617",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22450,6 +22468,15 @@
           "distance": 10051.1,
           "elevation_gain": 68.0,
           "moving_time": 2780.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20524688617"
+          ],
+          "count": 1,
+          "distance": 12452.5,
+          "elevation_gain": 161.0,
+          "moving_time": 3421.0
         }
       },
       "VirtualRide": {
@@ -22587,6 +22614,15 @@
           "distance": 12275.1,
           "elevation_gain": 547.0,
           "moving_time": 2249.0
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "20519763270"
+          ],
+          "count": 1,
+          "distance": 41122.3,
+          "elevation_gain": 203.0,
+          "moving_time": 3999.0
         }
       },
       "VirtualRun": {
@@ -23049,7 +23085,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T20:03:24.909180+00:00",
+  "generated_at": "2026-10-10T19:12:33.538361+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
