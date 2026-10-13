@@ -16976,5 +16976,31 @@
     "start_date_local": "2026-10-12T11:29:22Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 1995.6,
+    "elevation_gain": 3.5,
+    "id": "20566358826",
+    "moving_time": 1418.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-13T12:26:23Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 42595.3,
+    "elevation_gain": 334.0,
+    "id": "20572998840",
+    "moving_time": 3997.0,
+    "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-13T21:00:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
