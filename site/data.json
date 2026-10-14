@@ -11766,7 +11766,7 @@
     {
       "date": "2026-10-13",
       "hour": 21,
-      "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
+      "name": "Zwift - Stage 2 - Tour of Watopia 2026",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20572998840",
@@ -23157,7 +23157,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T20:35:00.763855+00:00",
+  "generated_at": "2026-10-14T19:15:34.777033+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5633052",
   "repo": "Domoel/sportview",
