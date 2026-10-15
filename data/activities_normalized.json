@@ -17002,5 +17002,18 @@
     "start_date_local": "2026-10-13T21:00:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 90305.2,
+    "elevation_gain": 715.0,
+    "id": "20599555996",
+    "moving_time": 8916.0,
+    "name": "Zwift - Group Ride: German Cycling vRTF #15.2026 \u2013 Sand and Sequoias",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T18:00:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
