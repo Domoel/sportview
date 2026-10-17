@@ -17015,5 +17015,18 @@
     "start_date_local": "2026-10-15T18:00:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 7105.2,
+    "elevation_gain": 43.0,
+    "id": "20620001051",
+    "moving_time": 1882.0,
+    "name": "7K Base Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T12:50:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
