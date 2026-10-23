@@ -17080,5 +17080,18 @@
     "start_date_local": "2026-10-20T16:21:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 28535.5,
+    "elevation_gain": 669.0,
+    "id": "20692747901",
+    "moving_time": 3706.0,
+    "name": "Zwift  - Stage 3 - Tour of Watopia 2026",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-22T21:00:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
